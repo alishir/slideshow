@@ -1,0 +1,4 @@
+convert -size 100x100 xc:#eee8d5 test.png
+convert -gravity center -font 'KFGQPC Uthman Taha naskh' pango:@pango_test.txt pango_test.png
+convert -size 3840x2160 -background '#eee8d5' -gravity center -font 'KFGQPC Uthman Taha Naskh' pango:@pango_test.txt pango_test.png
+convert -gravity center -extent 3840x2160 pango_test.png test.png
