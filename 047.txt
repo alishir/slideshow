@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=563.362800
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلّا فِى وَقْتٍ أَيْقَظْتَنِى لَِمحَبَّتِكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">مگر آنگاه که به محبّتت بیدارم سازی</span>
 </markup>

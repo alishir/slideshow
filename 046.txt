@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=553.886667
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى لَمْ يَكُنْ لِى حَوْلٌ فَأَنْتَقِلَ بِهِ عَنْ مَعْصِيَتِكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا برایم نیرویی نیست که خود را به‌وسیله آن از عرصه نافرمانی‌ات بیرون برم</span>
 </markup>

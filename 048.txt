@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=569.368800
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">وَ كَما أَرَدْتَ أَنْ أَكُونَ كُنْتُ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">و آن‌چنان ‌که خواستی باشم</span>
 </markup>

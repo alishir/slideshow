@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=541.874667
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">وَ أَطْلُبُ الْعَفْوَ مِنْكَ إِذِ الْعَفْوُ نَعْتٌ لِكَرَمِكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">و از تو درخواست گذشت می‌کنم، زیرا گذشت صفتی درخور کرم توست</span>
 </markup>

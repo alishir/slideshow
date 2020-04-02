@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=634.767467
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">وَ مَنْ لاذَبِكَ غَيْرُ مَخْذُولٍ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">و آن‌که به تو پناهنده شد خوار نیست</span>
 </markup>

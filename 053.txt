@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=602.335067
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">يَا قَرِيباً لَايَبْعُدُ عَنِ الْمُغْتَرِّ بِهِ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">ای نزدیکی که از فریفتگان دور نمی‌شود</span>
 </markup>

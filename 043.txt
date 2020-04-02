@@ -1,14 +1,13 @@
 <markup>
 <!--
+pkt_pts_time=522.922400
 -->
 <span size="100000" weight="bold">
-
+مُتَوَسِّلٌ بِكَرَمِكَ إِلَيْكَ
 </span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">به کرمت به حضرت تو متوسّلم</span>
 </markup>

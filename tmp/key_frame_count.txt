@@ -1198,7 +1198,7 @@ pict_type=I
 pkt_pts_time=578.844933
 pict_type=I
 [/FRAME]
-[FRAME] 301 -- غفلة عنک
+[FRAME] 301 -- غفلة عنک << 050
 pkt_pts_time=580.846933
 pict_type=I
 [/FRAME]
@@ -1322,7 +1322,7 @@ pict_type=I
 pkt_pts_time=638.771467
 pict_type=I
 [/FRAME]
-[FRAME] 332 -- غیر مملوک
+[FRAME] 332 -- غیر مملوک << 060
 pkt_pts_time=640.773467
 pict_type=I
 [/FRAME]
