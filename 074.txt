@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=768.634533
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى وَ اجْعَلْنِى مِمَّنْ نادَيْتَهُ فَأَجابَكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا مرا از کسانی قرار ده که آوازشان دادی، پس پاسخت دادند</span>
 </markup>

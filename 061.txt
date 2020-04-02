@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=644.777467
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى إِنَّ مَنِ انْتَهَجَ بِكَ لَمُسْتَنِيرٌ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا، آن‌که به تو راه جوید راهش روشن است</span>
 </markup>

@@ -1458,7 +1458,7 @@ pict_type=I
 pkt_pts_time=704.704000
 pict_type=I
 [/FRAME]
-[FRAME] 366 -- لها نفعا
+[FRAME] 366 -- لها نفعا << 068
 pkt_pts_time=706.706000
 pict_type=I
 [/FRAME]
@@ -1610,7 +1610,7 @@ pict_type=I
 pkt_pts_time=778.110667
 pict_type=I
 [/FRAME]
-[FRAME] 404 -- لک جهرا
+[FRAME] 404 -- لک جهرا << 076
 pkt_pts_time=780.112667
 pict_type=I
 [/FRAME]
@@ -1710,7 +1710,7 @@ pict_type=I
 pkt_pts_time=826.559067
 pict_type=I
 [/FRAME]
-[FRAME] 429 -- بکرم آلائک
+[FRAME] 429 -- بکرم آلائک << 081
 pkt_pts_time=828.561067
 pict_type=I
 [/FRAME]
@@ -1830,7 +1830,7 @@ pict_type=I
 pkt_pts_time=884.483600
 pict_type=I
 [/FRAME]
-[FRAME] 459 -- یستخف بامرک
+[FRAME] 459 -- یستخف بامرک << 085
 pkt_pts_time=886.485600
 pict_type=I
 [/FRAME]

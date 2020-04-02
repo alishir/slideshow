@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=788.120667
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى لَمْ أُسَلِّطْ عَلىٰ حُسْنِ ظَنِّى قُنُوطَ الْأَياسِ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا، بر خوش‌بینی‌ام ناامیدی و یأس را چیره نسازم</span>
 </markup>

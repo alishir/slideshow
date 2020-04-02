@@ -1,14 +1,13 @@
 <markup>
 <!--
+pkt_pts_time=664.263600
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى أَقِمْنِى فِى أَهْلِ وِلايَتِكَ
+مُقامَ مَنْ رَجَا الزِّيادَةَ مِنْ مَحَبَّتِكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا، در میان اهل ولایتت برنشانم
+نشاندن آن‌که به افزون شدن محبّتت امید بسته</span>
 </markup>

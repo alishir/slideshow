@@ -1,14 +1,13 @@
 <markup>
 <!--
+pkt_pts_time=886.485600
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">وَ لَا يَغْفُلُ عَنْ شُكْرِكَ
+وَ لَا يَسْتَخِفُّ بِأَمْرِكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">و از سپاست غافل نمی‌شوند
+و فرمانت را سبک نمی‌شمارند</span>
 </markup>

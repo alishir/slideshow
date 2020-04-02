@@ -1,14 +1,12 @@
 <markup>
 <!--
+pkt_pts_time=737.670267
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى هَبْ لى كَمالَ الانْقِطاعِ إِلَيْكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا کمال جدایی از مخلوقات را،
+برای رسیدن کامل به خودت به من ارزانی کن</span>
 </markup>

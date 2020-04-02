@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=776.108667
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">وَ لاحَظْتَهُ فَصَعِقَ لِجَلالِكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">به آن‌ها توجه فرمودی، پس در برابر بزرگی‌ات مدهوش شدند</span>
 </markup>

@@ -1,14 +1,13 @@
 <markup>
 <!--
+pkt_pts_time=706.706000
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">فَإِنِّى لَاأَقْدِرُ لِنَفْسِى دَفْعاً
+وَ لا أَمْلِكُ لَها نَفْعاً</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">زیرا که من نه بر دفعی از خود قدرت دارم
+و نه بر نفع خویش مالک هستم</span>
 </markup>

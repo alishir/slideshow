@@ -1,14 +1,13 @@
 <markup>
 <!--
+pkt_pts_time=658.257600
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">فَلا تُخَيِّبْ ظَنِّى مِنْ رَحْمَتِكَ
+وَ لَا تَحْجُبْنِى عَنْ رَأْفَتِكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">س گمانم را از رحمتت ناامید مساز
+و از مهربانی‌ات محرومم مکن</span>
 </markup>
