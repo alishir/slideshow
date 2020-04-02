@@ -1,14 +1,13 @@
 <markup>
 <!--
+pkt_pts_time=501.434267
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى فَلَمْ أَسْتَيْقِظْ أَيَّامَ اغْتِرارِى بِكَ
+وَ رُكُونِى إِلىٰ سَبِيلِ سَخَطِكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا در روزگار غرور نسبت به تو، بیدار نشدم
+و گاه تمایلم به‌سوی خشم تو آگاه نگشتم</span>
 </markup>

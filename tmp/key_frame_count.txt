@@ -1,0 +1,1964 @@
+[FRAME] 1  -- عنوان مناجات شعبانیه
+pkt_pts_time=0.000000
+pict_type=I
+[/FRAME]
+[FRAME] 2  -- تکرار
+pkt_pts_time=2.002000
+pict_type=I
+[/FRAME]
+[FRAME] 3  -- بسم الله
+pkt_pts_time=4.004000
+pict_type=I
+[/FRAME]
+[FRAME] 4  -- صلوات
+pkt_pts_time=6.006000
+pict_type=I
+[/FRAME]
+[FRAME] 5  -- ٪٪
+pkt_pts_time=8.008000
+pict_type=I
+[/FRAME]
+[FRAME] 6  -- ٪٪ 
+pkt_pts_time=10.010000
+pict_type=I
+[/FRAME]
+[FRAME] 7  -- اذا نادیتک
+pkt_pts_time=12.012000
+pict_type=I
+[/FRAME]
+[FRAME] 8  -- ٪٪
+pkt_pts_time=14.014000
+pict_type=I
+[/FRAME]
+[FRAME] 9  -- ٪٪
+pkt_pts_time=15.482133
+pict_type=I
+[/FRAME]
+[FRAME] 10  -- ٪٪
+pkt_pts_time=17.484133
+pict_type=I
+[/FRAME]
+[FRAME] 11  -- ٪٪
+pkt_pts_time=19.486133
+pict_type=I
+[/FRAME]
+[FRAME] 12  -- ٪٪
+pkt_pts_time=21.488133
+pict_type=I
+[/FRAME]
+[FRAME] 13 -- ٪٪
+pkt_pts_time=23.490133
+pict_type=I
+[/FRAME]
+[FRAME] 14  -- اذا ناجیتک
+pkt_pts_time=25.492133
+pict_type=I
+[/FRAME]
+[FRAME] 15 
+pkt_pts_time=27.494133
+pict_type=I
+[/FRAME]
+[FRAME] 16
+pkt_pts_time=29.496133
+pict_type=I
+[/FRAME]
+[FRAME] 17
+pkt_pts_time=30.964267
+pict_type=I
+[/FRAME]
+[FRAME] 18 -- متضرعا الیک <<--
+pkt_pts_time=32.966267
+pict_type=I
+[/FRAME]
+[FRAME] 19
+pkt_pts_time=34.968267
+pict_type=I
+[/FRAME]
+[FRAME] 20
+pkt_pts_time=36.970267
+pict_type=I
+[/FRAME]
+[FRAME] 21
+pkt_pts_time=38.972267
+pict_type=I
+[/FRAME]
+[FRAME] 22
+pkt_pts_time=40.974267
+pict_type=I
+[/FRAME]
+[FRAME] 23
+pkt_pts_time=42.976267
+pict_type=I
+[/FRAME]
+[FRAME] 24
+pkt_pts_time=44.978267
+pict_type=I
+[/FRAME]
+[FRAME] 25 -- لدیک ثوابی <<--
+pkt_pts_time=46.446400
+pict_type=I
+[/FRAME]
+[FRAME] 26
+pkt_pts_time=48.448400
+pict_type=I
+[/FRAME]
+[FRAME] 27
+pkt_pts_time=50.450400
+pict_type=I
+[/FRAME]
+[FRAME] 28 -- تعرف ضمیری <<--
+pkt_pts_time=52.452400
+pict_type=I
+[/FRAME]
+[FRAME] 29
+pkt_pts_time=54.454400
+pict_type=I
+[/FRAME]
+[FRAME] 30
+pkt_pts_time=56.456400
+pict_type=I
+[/FRAME]
+[FRAME] 31
+pkt_pts_time=58.458400
+pict_type=I
+[/FRAME]
+[FRAME] 32
+pkt_pts_time=60.460400
+pict_type=I
+[/FRAME]
+[FRAME] 33
+pkt_pts_time=61.928533
+pict_type=I
+[/FRAME]
+[FRAME] 34 -- منقلبی و مثوای <<--
+pkt_pts_time=63.930533
+pict_type=I
+[/FRAME]
+[FRAME] 35
+pkt_pts_time=65.932533
+pict_type=I
+[/FRAME]
+[FRAME] 36
+pkt_pts_time=67.934533
+pict_type=I
+[/FRAME]
+[FRAME] 37
+pkt_pts_time=69.936533
+pict_type=I
+[/FRAME]
+[FRAME] 38 -- ارجوه لعاقبتی <<-- 008
+pkt_pts_time=71.938533
+pict_type=I
+[/FRAME]
+[FRAME] 39
+pkt_pts_time=73.940533
+pict_type=I
+[/FRAME]
+[FRAME] 40
+pkt_pts_time=75.942533
+pict_type=I
+[/FRAME]
+[FRAME] 41
+pkt_pts_time=77.410667
+pict_type=I
+[/FRAME]
+[FRAME] 42
+pkt_pts_time=79.412667
+pict_type=I
+[/FRAME]
+[FRAME] 43
+pkt_pts_time=81.414667
+pict_type=I
+[/FRAME]
+[FRAME] 44
+pkt_pts_time=83.416667
+pict_type=I
+[/FRAME]
+[FRAME] 45
+pkt_pts_time=85.418667
+pict_type=I
+[/FRAME]
+[FRAME] 46 -- سریرتی و علانیتی <<-- 009
+pkt_pts_time=87.420667
+pict_type=I
+[/FRAME]
+[FRAME] 47
+pkt_pts_time=89.422667
+pict_type=I
+[/FRAME]
+[FRAME] 48
+pkt_pts_time=91.424667
+pict_type=I
+[/FRAME]
+[FRAME] 49
+pkt_pts_time=92.892800
+pict_type=I
+[/FRAME]
+[FRAME] 50
+pkt_pts_time=94.894800
+pict_type=I
+[/FRAME]
+[FRAME] 51
+pkt_pts_time=96.896800
+pict_type=I
+[/FRAME]
+[FRAME] 52
+pkt_pts_time=98.898800
+pict_type=I
+[/FRAME]
+[FRAME] 53
+pkt_pts_time=100.900800
+pict_type=I
+[/FRAME]
+[FRAME] 54
+pkt_pts_time=102.902800
+pict_type=I
+[/FRAME]
+[FRAME] 55 -- نفعی و ضری << -- 010
+pkt_pts_time=104.904800
+pict_type=I
+[/FRAME]
+[FRAME] 56
+pkt_pts_time=106.906800
+pict_type=I
+[/FRAME]
+[FRAME] 57
+pkt_pts_time=108.374933
+pict_type=I
+[/FRAME]
+[FRAME] 58
+pkt_pts_time=110.376933
+pict_type=I
+[/FRAME]
+[FRAME] 59
+pkt_pts_time=112.378933
+pict_type=I
+[/FRAME]
+[FRAME] 60
+pkt_pts_time=114.380933
+pict_type=I
+[/FRAME]
+[FRAME] 61
+pkt_pts_time=116.382933
+pict_type=I
+[/FRAME]
+[FRAME] 62
+pkt_pts_time=118.384933
+pict_type=I
+[/FRAME]
+[FRAME] 63 -- ذا الذی ینصرنی <<-- 011
+pkt_pts_time=120.386933
+pict_type=I
+[/FRAME]
+[FRAME] 64
+pkt_pts_time=122.388933
+pict_type=I
+[/FRAME]
+[FRAME] 65
+pkt_pts_time=123.857067
+pict_type=I
+[/FRAME]
+[FRAME] 66
+pkt_pts_time=125.859067
+pict_type=I
+[/FRAME]
+[FRAME] 67
+pkt_pts_time=127.861067
+pict_type=I
+[/FRAME]
+[FRAME] 68
+pkt_pts_time=129.863067
+pict_type=I
+[/FRAME]
+[FRAME] 69
+pkt_pts_time=131.865067
+pict_type=I
+[/FRAME]
+[FRAME] 70
+pkt_pts_time=133.867067
+pict_type=I
+[/FRAME]
+[FRAME] 71
+pkt_pts_time=135.869067
+pict_type=I
+[/FRAME]
+[FRAME] 72 -- حلول سخطک << --012 
+pkt_pts_time=137.871067
+pict_type=I
+[/FRAME]
+[FRAME] 73
+pkt_pts_time=139.339200
+pict_type=I
+[/FRAME]
+[FRAME] 74
+pkt_pts_time=141.341200
+pict_type=I
+[/FRAME]
+[FRAME] 75
+pkt_pts_time=143.343200
+pict_type=I
+[/FRAME]
+[FRAME] 76 -- فضل سعتک << -- 013
+pkt_pts_time=145.345200
+pict_type=I
+[/FRAME]
+[FRAME] 77
+pkt_pts_time=147.347200
+pict_type=I
+[/FRAME]
+[FRAME] 78
+pkt_pts_time=149.349200
+pict_type=I
+[/FRAME]
+[FRAME] 79
+pkt_pts_time=151.351200
+pict_type=I
+[/FRAME]
+[FRAME] 80
+pkt_pts_time=153.353200
+pict_type=I
+[/FRAME]
+[FRAME] 81
+pkt_pts_time=154.821333
+pict_type=I
+[/FRAME]
+[FRAME] 82
+pkt_pts_time=156.823333
+pict_type=I
+[/FRAME]
+[FRAME] 83
+pkt_pts_time=158.825333
+pict_type=I
+[/FRAME]
+[FRAME] 84 -- توکلی علیک <<-- 014
+pkt_pts_time=160.827333
+pict_type=I
+[/FRAME]
+[FRAME] 85
+pkt_pts_time=162.829333
+pict_type=I
+[/FRAME]
+[FRAME] 86
+pkt_pts_time=164.831333
+pict_type=I
+[/FRAME]
+[FRAME] 87
+pkt_pts_time=166.833333
+pict_type=I
+[/FRAME]
+[FRAME] 88
+pkt_pts_time=168.835333
+pict_type=I
+[/FRAME]
+[FRAME] 89
+pkt_pts_time=170.303467
+pict_type=I
+[/FRAME]
+[FRAME] 90
+pkt_pts_time=172.305467
+pict_type=I
+[/FRAME]
+[FRAME] 91 -- بعفوک <<-- 015
+pkt_pts_time=174.307467
+pict_type=I
+[/FRAME]
+[FRAME] 92
+pkt_pts_time=176.309467
+pict_type=I
+[/FRAME]
+[FRAME] 93
+pkt_pts_time=178.311467
+pict_type=I
+[/FRAME]
+[FRAME] 94
+pkt_pts_time=180.313467
+pict_type=I
+[/FRAME]
+[FRAME] 95
+pkt_pts_time=182.315467
+pict_type=I
+[/FRAME]
+[FRAME] 96 -- منک بذلک <<-- 016
+pkt_pts_time=184.317467
+pict_type=I
+[/FRAME]
+[FRAME] 97
+pkt_pts_time=185.785600
+pict_type=I
+[/FRAME]
+[FRAME] 98
+pkt_pts_time=187.787600
+pict_type=I
+[/FRAME]
+[FRAME] 99
+pkt_pts_time=189.789600
+pict_type=I
+[/FRAME]
+[FRAME] 100 -- الیک وسیلتی <<-- 017
+pkt_pts_time=191.791600
+pict_type=I
+[/FRAME]
+[FRAME] 101
+pkt_pts_time=193.793600
+pict_type=I
+[/FRAME]
+[FRAME] 102
+pkt_pts_time=195.795600
+pict_type=I
+[/FRAME]
+[FRAME] 103
+pkt_pts_time=197.797600
+pict_type=I
+[/FRAME]
+[FRAME] 104
+pkt_pts_time=199.799600
+pict_type=I
+[/FRAME]
+[FRAME] 105
+pkt_pts_time=201.267733
+pict_type=I
+[/FRAME]
+[FRAME] 106
+pkt_pts_time=203.269733
+pict_type=I
+[/FRAME]
+[FRAME] 107
+pkt_pts_time=205.271733
+pict_type=I
+[/FRAME]
+[FRAME] 108 -- تغفر لها <<-- 018
+pkt_pts_time=207.273733
+pict_type=I
+[/FRAME]
+[FRAME] 109
+pkt_pts_time=209.275733
+pict_type=I
+[/FRAME]
+[FRAME] 110
+pkt_pts_time=211.277733
+pict_type=I
+[/FRAME]
+[FRAME] 111
+pkt_pts_time=213.279733
+pict_type=I
+[/FRAME]
+[FRAME] 112
+pkt_pts_time=215.281733
+pict_type=I
+[/FRAME]
+[FRAME] 113
+pkt_pts_time=216.749867
+pict_type=I
+[/FRAME]
+[FRAME] 114
+pkt_pts_time=218.751867
+pict_type=I
+[/FRAME]
+[FRAME] 115
+pkt_pts_time=220.753867
+pict_type=I
+[/FRAME]
+[FRAME] 116
+pkt_pts_time=222.755867
+pict_type=I
+[/FRAME]
+[FRAME] 117 -- فی مماتی << 019
+pkt_pts_time=224.757867
+pict_type=I
+[/FRAME]
+[FRAME] 118
+pkt_pts_time=226.759867
+pict_type=I
+[/FRAME]
+[FRAME] 119
+pkt_pts_time=228.761867
+pict_type=I
+[/FRAME]
+[FRAME] 120
+pkt_pts_time=230.763867
+pict_type=I
+[/FRAME]
+[FRAME] 121
+pkt_pts_time=232.232000
+pict_type=I
+[/FRAME]
+[FRAME] 122
+pkt_pts_time=234.234000
+pict_type=I
+[/FRAME]
+[FRAME] 123
+pkt_pts_time=236.236000
+pict_type=I
+[/FRAME]
+[FRAME] 124
+pkt_pts_time=238.238000
+pict_type=I
+[/FRAME]
+[FRAME] 125
+pkt_pts_time=240.240000
+pict_type=I
+[/FRAME]
+[FRAME] 126 -- فی حیاتی <<-- 020
+pkt_pts_time=242.242000
+pict_type=I
+[/FRAME]
+[FRAME] 127
+pkt_pts_time=244.244000
+pict_type=I
+[/FRAME]
+[FRAME] 128
+pkt_pts_time=246.246000
+pict_type=I
+[/FRAME]
+[FRAME] 129
+pkt_pts_time=247.714133
+pict_type=I
+[/FRAME]
+[FRAME] 130
+pkt_pts_time=249.716133
+pict_type=I
+[/FRAME]
+[FRAME] 131
+pkt_pts_time=251.718133
+pict_type=I
+[/FRAME]
+[FRAME] 132
+pkt_pts_time=253.720133
+pict_type=I
+[/FRAME]
+[FRAME] 133
+pkt_pts_time=255.722133
+pict_type=I
+[/FRAME]
+[FRAME] 134
+pkt_pts_time=257.724133
+pict_type=I
+[/FRAME]
+[FRAME] 135
+pkt_pts_time=259.726133
+pict_type=I
+[/FRAME]
+[FRAME] 136 -- انت اهله <<-- 021
+pkt_pts_time=261.728133
+pict_type=I
+[/FRAME]
+[FRAME] 137
+pkt_pts_time=263.196267
+pict_type=I
+[/FRAME]
+[FRAME] 138
+pkt_pts_time=265.198267
+pict_type=I
+[/FRAME]
+[FRAME] 139
+pkt_pts_time=267.200267
+pict_type=I
+[/FRAME]
+[FRAME] 140
+pkt_pts_time=269.202267
+pict_type=I
+[/FRAME]
+[FRAME] 141 -- غمرة جهله <<-- 022
+pkt_pts_time=271.204267
+pict_type=I
+[/FRAME]
+[FRAME] 142
+pkt_pts_time=273.206267
+pict_type=I
+[/FRAME]
+[FRAME] 143
+pkt_pts_time=275.208267
+pict_type=I
+[/FRAME]
+[FRAME] 144
+pkt_pts_time=277.210267
+pict_type=I
+[/FRAME]
+[FRAME] 145 -- فی الاخری <<-- 023
+pkt_pts_time=278.678400
+pict_type=I
+[/FRAME]
+[FRAME] 146
+pkt_pts_time=280.680400
+pict_type=I
+[/FRAME]
+[FRAME] 147
+pkt_pts_time=282.682400
+pict_type=I
+[/FRAME]
+[FRAME] 148
+pkt_pts_time=284.684400
+pict_type=I
+[/FRAME]
+[FRAME] 149
+pkt_pts_time=286.686400
+pict_type=I
+[/FRAME]
+[FRAME] 150
+pkt_pts_time=288.688400
+pict_type=I
+[/FRAME]
+[FRAME] 151
+pkt_pts_time=290.690400
+pict_type=I
+[/FRAME]
+[FRAME] 152
+pkt_pts_time=292.692400
+pict_type=I
+[/FRAME]
+[FRAME] 153
+pkt_pts_time=294.160533
+pict_type=I
+[/FRAME]
+[FRAME] 154
+pkt_pts_time=296.162533
+pict_type=I
+[/FRAME]
+[FRAME] 155 -- رئوس الاشهاد <<-- 024
+pkt_pts_time=298.164533
+pict_type=I
+[/FRAME]
+[FRAME] 156
+pkt_pts_time=300.166533
+pict_type=I
+[/FRAME]
+[FRAME] 157
+pkt_pts_time=302.168533
+pict_type=I
+[/FRAME]
+[FRAME] 158
+pkt_pts_time=304.170533
+pict_type=I
+[/FRAME]
+[FRAME] 159
+pkt_pts_time=306.172533
+pict_type=I
+[/FRAME]
+[FRAME] 160
+pkt_pts_time=308.174533
+pict_type=I
+[/FRAME]
+[FRAME] 161
+pkt_pts_time=309.642667
+pict_type=I
+[/FRAME]
+[FRAME] 162
+pkt_pts_time=311.644667
+pict_type=I
+[/FRAME]
+[FRAME] 163
+pkt_pts_time=313.646667
+pict_type=I
+[/FRAME]
+[FRAME] 164
+pkt_pts_time=315.648667
+pict_type=I
+[/FRAME]
+[FRAME] 165 -- من عملی <<-- 025
+pkt_pts_time=317.650667
+pict_type=I
+[/FRAME]
+[FRAME] 166
+pkt_pts_time=319.652667
+pict_type=I
+[/FRAME]
+[FRAME] 167
+pkt_pts_time=321.654667
+pict_type=I
+[/FRAME]
+[FRAME] 168
+pkt_pts_time=323.656667
+pict_type=I
+[/FRAME]
+[FRAME] 169
+pkt_pts_time=325.124800
+pict_type=I
+[/FRAME]
+[FRAME] 170
+pkt_pts_time=327.126800
+pict_type=I
+[/FRAME]
+[FRAME] 171
+pkt_pts_time=329.128800
+pict_type=I
+[/FRAME]
+[FRAME] 172
+pkt_pts_time=331.130800
+pict_type=I
+[/FRAME]
+[FRAME] 173
+pkt_pts_time=333.132800
+pict_type=I
+[/FRAME]
+[FRAME] 174
+pkt_pts_time=335.134800
+pict_type=I
+[/FRAME]
+[FRAME] 175 -- بین عبادتک <<-- 026
+pkt_pts_time=337.136800
+pict_type=I
+[/FRAME]
+[FRAME] 176
+pkt_pts_time=339.138800
+pict_type=I
+[/FRAME]
+[FRAME] 177
+pkt_pts_time=340.606933
+pict_type=I
+[/FRAME]
+[FRAME] 178
+pkt_pts_time=342.608933
+pict_type=I
+[/FRAME]
+[FRAME] 179
+pkt_pts_time=344.610933
+pict_type=I
+[/FRAME]
+[FRAME] 180
+pkt_pts_time=346.612933
+pict_type=I
+[/FRAME]
+[FRAME] 181
+pkt_pts_time=348.614933
+pict_type=I
+[/FRAME]
+[FRAME] 182 -- عن قبول عذره <<-- 027
+pkt_pts_time=350.616933
+pict_type=I
+[/FRAME]
+[FRAME] 183
+pkt_pts_time=352.618933
+pict_type=I
+[/FRAME]
+[FRAME] 184
+pkt_pts_time=354.620933
+pict_type=I
+[/FRAME]
+[FRAME] 185
+pkt_pts_time=356.089067
+pict_type=I
+[/FRAME]
+[FRAME] 186
+pkt_pts_time=358.091067
+pict_type=I
+[/FRAME]
+[FRAME] 187 -- الیه المسیون <<-- 028
+pkt_pts_time=360.093067
+pict_type=I
+[/FRAME]
+[FRAME] 188
+pkt_pts_time=362.095067
+pict_type=I
+[/FRAME]
+[FRAME] 189
+pkt_pts_time=364.097067
+pict_type=I
+[/FRAME]
+[FRAME] 190
+pkt_pts_time=366.099067
+pict_type=I
+[/FRAME]
+[FRAME] 191 -- منک رجائی <<-- 029
+pkt_pts_time=368.101067
+pict_type=I
+[/FRAME]
+[FRAME] 192
+pkt_pts_time=370.103067
+pict_type=I
+[/FRAME]
+[FRAME] 193
+pkt_pts_time=371.571200
+pict_type=I
+[/FRAME]
+[FRAME] 194
+pkt_pts_time=373.573200
+pict_type=I
+[/FRAME]
+[FRAME] 195
+pkt_pts_time=375.575200
+pict_type=I
+[/FRAME]
+[FRAME] 196
+pkt_pts_time=377.577200
+pict_type=I
+[/FRAME]
+[FRAME] 197
+pkt_pts_time=379.579200
+pict_type=I
+[/FRAME]
+[FRAME] 198
+pkt_pts_time=381.581200
+pict_type=I
+[/FRAME]
+[FRAME] 199 -- لم تهدنی <<-- 030
+pkt_pts_time=383.583200
+pict_type=I
+[/FRAME]
+[FRAME] 200
+pkt_pts_time=385.585200
+pict_type=I
+[/FRAME]
+[FRAME] 201
+pkt_pts_time=387.053333
+pict_type=I
+[/FRAME]
+[FRAME] 202
+pkt_pts_time=389.055333
+pict_type=I
+[/FRAME]
+[FRAME] 203
+pkt_pts_time=391.057333
+pict_type=I
+[/FRAME]
+[FRAME] 204
+pkt_pts_time=393.059333
+pict_type=I
+[/FRAME]
+[FRAME] 205  -- لم تعافنی <<-- 031
+pkt_pts_time=395.061333
+pict_type=I
+[/FRAME]
+[FRAME] 206
+pkt_pts_time=397.063333
+pict_type=I
+[/FRAME]
+[FRAME] 207
+pkt_pts_time=399.065333
+pict_type=I
+[/FRAME]
+[FRAME] 208 -- طلبها منک
+pkt_pts_time=401.067333
+pict_type=I
+[/FRAME]
+[FRAME] 209
+pkt_pts_time=402.535467
+pict_type=I
+[/FRAME]
+[FRAME] 210
+pkt_pts_time=404.537467
+pict_type=I
+[/FRAME]
+[FRAME] 211
+pkt_pts_time=406.539467
+pict_type=I
+[/FRAME]
+[FRAME] 212
+pkt_pts_time=408.541467
+pict_type=I
+[/FRAME]
+[FRAME] 213
+pkt_pts_time=410.543467
+pict_type=I
+[/FRAME]
+[FRAME] 214 -- تحب و ترضی << 033
+pkt_pts_time=412.545467
+pict_type=I
+[/FRAME]
+[FRAME] 215
+pkt_pts_time=414.547467
+pict_type=I
+[/FRAME]
+[FRAME] 216
+pkt_pts_time=416.549467
+pict_type=I
+[/FRAME]
+[FRAME] 217
+pkt_pts_time=418.017600
+pict_type=I
+[/FRAME]
+[FRAME] 218
+pkt_pts_time=420.019600
+pict_type=I
+[/FRAME]
+[FRAME] 219
+pkt_pts_time=422.021600
+pict_type=I
+[/FRAME]
+[FRAME] 220
+pkt_pts_time=424.023600
+pict_type=I
+[/FRAME]
+[FRAME] 221 -- اخذتک بعفوک
+pkt_pts_time=426.025600
+pict_type=I
+[/FRAME]
+[FRAME] 222
+pkt_pts_time=428.027600
+pict_type=I
+[/FRAME]
+[FRAME] 223
+pkt_pts_time=430.029600
+pict_type=I
+[/FRAME]
+[FRAME] 224
+pkt_pts_time=432.031600
+pict_type=I
+[/FRAME]
+[FRAME] 225
+pkt_pts_time=433.499733
+pict_type=I
+[/FRAME]
+[FRAME] 226
+pkt_pts_time=435.501733
+pict_type=I
+[/FRAME]
+[FRAME] 227 -- اخذتک بمعرفتک
+pkt_pts_time=437.503733
+pict_type=I
+[/FRAME]
+[FRAME] 228
+pkt_pts_time=439.505733
+pict_type=I
+[/FRAME]
+[FRAME] 229
+pkt_pts_time=441.507733
+pict_type=I
+[/FRAME]
+[FRAME] 230
+pkt_pts_time=443.509733
+pict_type=I
+[/FRAME]
+[FRAME] 231 -- انی احبک
+pkt_pts_time=445.511733
+pict_type=I
+[/FRAME]
+[FRAME] 232
+pkt_pts_time=447.513733
+pict_type=I
+[/FRAME]
+[FRAME] 233
+pkt_pts_time=448.981867
+pict_type=I
+[/FRAME]
+[FRAME] 234
+pkt_pts_time=450.983867
+pict_type=I
+[/FRAME]
+[FRAME] 235
+pkt_pts_time=452.985867
+pict_type=I
+[/FRAME]
+[FRAME] 236  -- رجائک املی << 037
+pkt_pts_time=454.987867
+pict_type=I
+[/FRAME]
+[FRAME] 237
+pkt_pts_time=456.989867
+pict_type=I
+[/FRAME]
+[FRAME] 238
+pkt_pts_time=458.991867
+pict_type=I
+[/FRAME]
+[FRAME] 239
+pkt_pts_time=460.993867
+pict_type=I
+[/FRAME]
+[FRAME] 240
+pkt_pts_time=462.995867
+pict_type=I
+[/FRAME]
+[FRAME] 241
+pkt_pts_time=464.464000
+pict_type=I
+[/FRAME]
+[FRAME] 242 -- محروما
+pkt_pts_time=466.466000
+pict_type=I
+[/FRAME]
+[FRAME] 243
+pkt_pts_time=468.468000
+pict_type=I
+[/FRAME]
+[FRAME] 244
+pkt_pts_time=470.470000
+pict_type=I
+[/FRAME]
+[FRAME] 245
+pkt_pts_time=472.472000
+pict_type=I
+[/FRAME]
+[FRAME] 246
+pkt_pts_time=474.474000
+pict_type=I
+[/FRAME]
+[FRAME] 247 -- مرحوما
+pkt_pts_time=476.476000
+pict_type=I
+[/FRAME]
+[FRAME] 248
+pkt_pts_time=478.478000
+pict_type=I
+[/FRAME]
+[FRAME] 249
+pkt_pts_time=479.946133
+pict_type=I
+[/FRAME]
+[FRAME] 250
+pkt_pts_time=481.948133
+pict_type=I
+[/FRAME]
+[FRAME] 251
+pkt_pts_time=483.950133
+pict_type=I
+[/FRAME]
+[FRAME] 252
+pkt_pts_time=485.952133
+pict_type=I
+[/FRAME]
+[FRAME] 253
+pkt_pts_time=487.954133
+pict_type=I
+[/FRAME]
+[FRAME] 254  -- تباعد منک
+pkt_pts_time=489.956133
+pict_type=I
+[/FRAME]
+[FRAME] 255
+pkt_pts_time=491.958133
+pict_type=I
+[/FRAME]
+[FRAME] 256
+pkt_pts_time=493.960133
+pict_type=I
+[/FRAME]
+[FRAME] 257
+pkt_pts_time=495.428267
+pict_type=I
+[/FRAME]
+[FRAME] 258
+pkt_pts_time=497.430267
+pict_type=I
+[/FRAME]
+[FRAME] 259
+pkt_pts_time=499.432267
+pict_type=I
+[/FRAME]
+[FRAME] 260 -- سبیل سخطک << 041
+pkt_pts_time=501.434267
+pict_type=I
+[/FRAME]
+[FRAME] 261
+pkt_pts_time=503.436267
+pict_type=I
+[/FRAME]
+[FRAME] 262
+pkt_pts_time=505.438267
+pict_type=I
+[/FRAME]
+[FRAME] 263
+pkt_pts_time=507.440267
+pict_type=I
+[/FRAME]
+[FRAME] 264
+pkt_pts_time=509.442267
+pict_type=I
+[/FRAME]
+[FRAME] 265
+pkt_pts_time=510.910400
+pict_type=I
+[/FRAME]
+[FRAME] 266 -- بین یدیک
+pkt_pts_time=512.912400
+pict_type=I
+[/FRAME]
+[FRAME] 267
+pkt_pts_time=514.914400
+pict_type=I
+[/FRAME]
+[FRAME] 268
+pkt_pts_time=516.916400
+pict_type=I
+[/FRAME]
+[FRAME] 269
+pkt_pts_time=518.918400
+pict_type=I
+[/FRAME]
+[FRAME] 270
+pkt_pts_time=520.920400
+pict_type=I
+[/FRAME]
+[FRAME] 271 -- بکرمک الیک
+pkt_pts_time=522.922400
+pict_type=I
+[/FRAME]
+[FRAME] 272
+pkt_pts_time=524.924400
+pict_type=I
+[/FRAME]
+[FRAME] 273 -- اواجهک به
+pkt_pts_time=526.392533
+pict_type=I
+[/FRAME]
+[FRAME] 274
+pkt_pts_time=528.394533
+pict_type=I
+[/FRAME]
+[FRAME] 275
+pkt_pts_time=530.396533
+pict_type=I
+[/FRAME]
+[FRAME] 276
+pkt_pts_time=532.398533
+pict_type=I
+[/FRAME]
+[FRAME] 277
+pkt_pts_time=534.400533
+pict_type=I
+[/FRAME]
+[FRAME] 278 -- من نظرک
+pkt_pts_time=536.402533
+pict_type=I
+[/FRAME]
+[FRAME] 279
+pkt_pts_time=538.404533
+pict_type=I
+[/FRAME]
+[FRAME] 280
+pkt_pts_time=540.406533
+pict_type=I
+[/FRAME]
+[FRAME] 281 -- نعت کرمک
+pkt_pts_time=541.874667
+pict_type=I
+[/FRAME]
+[FRAME] 282
+pkt_pts_time=543.876667
+pict_type=I
+[/FRAME]
+[FRAME] 283
+pkt_pts_time=545.878667
+pict_type=I
+[/FRAME]
+[FRAME] 284
+pkt_pts_time=547.880667
+pict_type=I
+[/FRAME]
+[FRAME] 285
+pkt_pts_time=549.882667
+pict_type=I
+[/FRAME]
+[FRAME] 286
+pkt_pts_time=551.884667
+pict_type=I
+[/FRAME]
+[FRAME] 287 - عن معصیتک
+pkt_pts_time=553.886667
+pict_type=I
+[/FRAME]
+[FRAME] 288
+pkt_pts_time=555.888667
+pict_type=I
+[/FRAME]
+[FRAME] 289
+pkt_pts_time=557.356800
+pict_type=I
+[/FRAME]
+[FRAME] 290
+pkt_pts_time=559.358800
+pict_type=I
+[/FRAME]
+[FRAME] 291
+pkt_pts_time=561.360800
+pict_type=I
+[/FRAME]
+[FRAME] 292 -- لمحبتک
+pkt_pts_time=563.362800
+pict_type=I
+[/FRAME]
+[FRAME] 293
+pkt_pts_time=565.364800
+pict_type=I
+[/FRAME]
+[FRAME] 294
+pkt_pts_time=567.366800
+pict_type=I
+[/FRAME]
+[FRAME] 295 -- اکون کنت
+pkt_pts_time=569.368800
+pict_type=I
+[/FRAME]
+[FRAME] 296
+pkt_pts_time=571.370800
+pict_type=I
+[/FRAME]
+[FRAME] 297
+pkt_pts_time=572.838933
+pict_type=I
+[/FRAME]
+[FRAME] 298 -- فی کرمک
+pkt_pts_time=574.840933
+pict_type=I
+[/FRAME]
+[FRAME] 299
+pkt_pts_time=576.842933
+pict_type=I
+[/FRAME]
+[FRAME] 300
+pkt_pts_time=578.844933
+pict_type=I
+[/FRAME]
+[FRAME] 301 -- غفلة عنک
+pkt_pts_time=580.846933
+pict_type=I
+[/FRAME]
+[FRAME] 302
+pkt_pts_time=582.848933
+pict_type=I
+[/FRAME]
+[FRAME] 303
+pkt_pts_time=584.850933
+pict_type=I
+[/FRAME]
+[FRAME] 304 -- فاجابک
+pkt_pts_time=586.852933
+pict_type=I
+[/FRAME]
+[FRAME] 305
+pkt_pts_time=588.321067
+pict_type=I
+[/FRAME]
+[FRAME] 306
+pkt_pts_time=590.323067
+pict_type=I
+[/FRAME]
+[FRAME] 307
+pkt_pts_time=592.325067
+pict_type=I
+[/FRAME]
+[FRAME] 308
+pkt_pts_time=594.327067
+pict_type=I
+[/FRAME]
+[FRAME] 309 -- فاطاعک
+pkt_pts_time=596.329067
+pict_type=I
+[/FRAME]
+[FRAME] 310
+pkt_pts_time=598.331067
+pict_type=I
+[/FRAME]
+[FRAME] 311
+pkt_pts_time=600.333067
+pict_type=I
+[/FRAME]
+[FRAME] 312 -- المغتر به
+pkt_pts_time=602.335067
+pict_type=I
+[/FRAME]
+[FRAME] 313
+pkt_pts_time=603.803200
+pict_type=I
+[/FRAME]
+[FRAME] 314 -- رجا ثوابه
+pkt_pts_time=605.805200
+pict_type=I
+[/FRAME]
+[FRAME] 315
+pkt_pts_time=607.807200
+pict_type=I
+[/FRAME]
+[FRAME] 316
+pkt_pts_time=609.809200
+pict_type=I
+[/FRAME]
+[FRAME] 317 -- منک شوقه
+pkt_pts_time=611.811200
+pict_type=I
+[/FRAME]
+[FRAME] 318
+pkt_pts_time=613.813200
+pict_type=I
+[/FRAME]
+[FRAME] 319
+pkt_pts_time=615.815200
+pict_type=I
+[/FRAME]
+[FRAME] 320 -- الیک صدقه
+pkt_pts_time=617.817200
+pict_type=I
+[/FRAME]
+[FRAME] 321
+pkt_pts_time=619.285333
+pict_type=I
+[/FRAME]
+[FRAME] 322
+pkt_pts_time=621.287333
+pict_type=I
+[/FRAME]
+[FRAME] 323 -- منک حقه
+pkt_pts_time=623.289333
+pict_type=I
+[/FRAME]
+[FRAME] 324
+pkt_pts_time=625.291333
+pict_type=I
+[/FRAME]
+[FRAME] 325
+pkt_pts_time=627.293333
+pict_type=I
+[/FRAME]
+[FRAME] 326 -- غیر مجهول
+pkt_pts_time=629.295333
+pict_type=I
+[/FRAME]
+[FRAME] 327
+pkt_pts_time=631.297333
+pict_type=I
+[/FRAME]
+[FRAME] 328
+pkt_pts_time=633.299333
+pict_type=I
+[/FRAME]
+[FRAME] 329 -- غیر مخذول
+pkt_pts_time=634.767467
+pict_type=I
+[/FRAME]
+[FRAME] 330
+pkt_pts_time=636.769467
+pict_type=I
+[/FRAME]
+[FRAME] 331
+pkt_pts_time=638.771467
+pict_type=I
+[/FRAME]
+[FRAME] 332 -- غیر مملوک
+pkt_pts_time=640.773467
+pict_type=I
+[/FRAME]
+[FRAME] 333
+pkt_pts_time=642.775467
+pict_type=I
+[/FRAME]
+[FRAME] 334 -- بک لمستنیر
+pkt_pts_time=644.777467
+pict_type=I
+[/FRAME]
+[FRAME] 335
+pkt_pts_time=646.779467
+pict_type=I
+[/FRAME]
+[FRAME] 336
+pkt_pts_time=648.781467
+pict_type=I
+[/FRAME]
+[FRAME] 337 -- لذت بک یا الهی
+pkt_pts_time=650.249600
+pict_type=I
+[/FRAME]
+[FRAME] 338
+pkt_pts_time=652.251600
+pict_type=I
+[/FRAME]
+[FRAME] 339
+pkt_pts_time=654.253600
+pict_type=I
+[/FRAME]
+[FRAME] 340
+pkt_pts_time=656.255600
+pict_type=I
+[/FRAME]
+[FRAME] 341 -- عن رافتک
+pkt_pts_time=658.257600
+pict_type=I
+[/FRAME]
+[FRAME] 342
+pkt_pts_time=660.259600
+pict_type=I
+[/FRAME]
+[FRAME] 343
+pkt_pts_time=662.261600
+pict_type=I
+[/FRAME]
+[FRAME] 344 -- من محبتک
+pkt_pts_time=664.263600
+pict_type=I
+[/FRAME]
+[FRAME] 345
+pkt_pts_time=665.731733
+pict_type=I
+[/FRAME]
+[FRAME] 346
+pkt_pts_time=667.733733
+pict_type=I
+[/FRAME]
+[FRAME] 347
+pkt_pts_time=669.735733
+pict_type=I
+[/FRAME]
+[FRAME] 348
+pkt_pts_time=671.737733
+pict_type=I
+[/FRAME]
+[FRAME] 349
+pkt_pts_time=673.739733
+pict_type=I
+[/FRAME]
+[FRAME] 350
+pkt_pts_time=675.741733
+pict_type=I
+[/FRAME]
+[FRAME] 351
+pkt_pts_time=677.743733
+pict_type=I
+[/FRAME]
+[FRAME] 352 -- الی ذکرک
+pkt_pts_time=679.745733
+pict_type=I
+[/FRAME]
+[FRAME] 353
+pkt_pts_time=681.213867
+pict_type=I
+[/FRAME]
+[FRAME] 354
+pkt_pts_time=683.215867
+pict_type=I
+[/FRAME]
+[FRAME] 355 -- محل قدسک
+pkt_pts_time=685.217867
+pict_type=I
+[/FRAME]
+[FRAME] 356
+pkt_pts_time=687.219867
+pict_type=I
+[/FRAME]
+[FRAME] 357
+pkt_pts_time=689.221867
+pict_type=I
+[/FRAME]
+[FRAME] 358
+pkt_pts_time=691.223867
+pict_type=I
+[/FRAME]
+[FRAME] 359 -- من مرضاتک
+pkt_pts_time=693.225867
+pict_type=I
+[/FRAME]
+[FRAME] 360
+pkt_pts_time=695.227867
+pict_type=I
+[/FRAME]
+[FRAME] 361
+pkt_pts_time=696.696000
+pict_type=I
+[/FRAME]
+[FRAME] 362
+pkt_pts_time=698.698000
+pict_type=I
+[/FRAME]
+[FRAME] 363
+pkt_pts_time=700.700000
+pict_type=I
+[/FRAME]
+[FRAME] 364
+pkt_pts_time=702.702000
+pict_type=I
+[/FRAME]
+[FRAME] 365
+pkt_pts_time=704.704000
+pict_type=I
+[/FRAME]
+[FRAME] 366 -- لها نفعا
+pkt_pts_time=706.706000
+pict_type=I
+[/FRAME]
+[FRAME] 367
+pkt_pts_time=708.708000
+pict_type=I
+[/FRAME]
+[FRAME] 368
+pkt_pts_time=710.710000
+pict_type=I
+[/FRAME]
+[FRAME] 369
+pkt_pts_time=712.178133
+pict_type=I
+[/FRAME]
+[FRAME] 370 -- مملوک المنیب
+pkt_pts_time=714.180133
+pict_type=I
+[/FRAME]
+[FRAME] 371
+pkt_pts_time=716.182133
+pict_type=I
+[/FRAME]
+[FRAME] 372
+pkt_pts_time=718.184133
+pict_type=I
+[/FRAME]
+[FRAME] 373
+pkt_pts_time=720.186133
+pict_type=I
+[/FRAME]
+[FRAME] 374
+pkt_pts_time=722.188133
+pict_type=I
+[/FRAME]
+[FRAME] 375 -- عن عفوک
+pkt_pts_time=724.190133
+pict_type=I
+[/FRAME]
+[FRAME] 376
+pkt_pts_time=726.192133
+pict_type=I
+[/FRAME]
+[FRAME] 377
+pkt_pts_time=727.660267
+pict_type=I
+[/FRAME]
+[FRAME] 378
+pkt_pts_time=729.662267
+pict_type=I
+[/FRAME]
+[FRAME] 379
+pkt_pts_time=731.664267
+pict_type=I
+[/FRAME]
+[FRAME] 380
+pkt_pts_time=733.666267
+pict_type=I
+[/FRAME]
+[FRAME] 381
+pkt_pts_time=735.668267
+pict_type=I
+[/FRAME]
+[FRAME] 382 -- انقطاع الیک
+pkt_pts_time=737.670267
+pict_type=I
+[/FRAME]
+[FRAME] 383
+pkt_pts_time=739.672267
+pict_type=I
+[/FRAME]
+[FRAME] 384
+pkt_pts_time=741.674267
+pict_type=I
+[/FRAME]
+[FRAME] 385 -- نظرها الیک
+pkt_pts_time=743.142400
+pict_type=I
+[/FRAME]
+[FRAME] 386
+pkt_pts_time=745.144400
+pict_type=I
+[/FRAME]
+[FRAME] 387
+pkt_pts_time=747.146400
+pict_type=I
+[/FRAME]
+[FRAME] 388
+pkt_pts_time=749.148400
+pict_type=I
+[/FRAME]
+[FRAME] 389
+pkt_pts_time=751.150400
+pict_type=I
+[/FRAME]
+[FRAME] 390 -- بعز قدسک
+pkt_pts_time=753.152400
+pict_type=I
+[/FRAME]
+[FRAME] 391
+pkt_pts_time=755.154400
+pict_type=I
+[/FRAME]
+[FRAME] 392
+pkt_pts_time=757.156400
+pict_type=I
+[/FRAME]
+[FRAME] 393
+pkt_pts_time=758.624533
+pict_type=I
+[/FRAME]
+[FRAME] 394
+pkt_pts_time=760.626533
+pict_type=I
+[/FRAME]
+[FRAME] 395
+pkt_pts_time=762.628533
+pict_type=I
+[/FRAME]
+[FRAME] 396
+pkt_pts_time=764.630533
+pict_type=I
+[/FRAME]
+[FRAME] 397
+pkt_pts_time=766.632533
+pict_type=I
+[/FRAME]
+[FRAME] 398 -- فاجابک
+pkt_pts_time=768.634533
+pict_type=I
+[/FRAME]
+[FRAME] 399
+pkt_pts_time=770.636533
+pict_type=I
+[/FRAME]
+[FRAME] 400
+pkt_pts_time=772.638533
+pict_type=I
+[/FRAME]
+[FRAME] 401
+pkt_pts_time=774.106667
+pict_type=I
+[/FRAME]
+[FRAME] 402 -- لجلالک
+pkt_pts_time=776.108667
+pict_type=I
+[/FRAME]
+[FRAME] 403
+pkt_pts_time=778.110667
+pict_type=I
+[/FRAME]
+[FRAME] 404 -- لک جهرا
+pkt_pts_time=780.112667
+pict_type=I
+[/FRAME]
+[FRAME] 405
+pkt_pts_time=782.114667
+pict_type=I
+[/FRAME]
+[FRAME] 406
+pkt_pts_time=784.116667
+pict_type=I
+[/FRAME]
+[FRAME] 407
+pkt_pts_time=786.118667
+pict_type=I
+[/FRAME]
+[FRAME] 408 -- قنوط الآیاس
+pkt_pts_time=788.120667
+pict_type=I
+[/FRAME]
+[FRAME] 409
+pkt_pts_time=789.588800
+pict_type=I
+[/FRAME]
+[FRAME] 410
+pkt_pts_time=791.590800
+pict_type=I
+[/FRAME]
+[FRAME] 411
+pkt_pts_time=793.592800
+pict_type=I
+[/FRAME]
+[FRAME] 412 -- جمیل کرمک
+pkt_pts_time=795.594800
+pict_type=I
+[/FRAME]
+[FRAME] 413
+pkt_pts_time=797.596800
+pict_type=I
+[/FRAME]
+[FRAME] 414 -- توکلی علیک
+pkt_pts_time=799.598800
+pict_type=I
+[/FRAME]
+[FRAME] 415
+pkt_pts_time=801.600800
+pict_type=I
+[/FRAME]
+[FRAME] 416
+pkt_pts_time=803.602800
+pict_type=I
+[/FRAME]
+[FRAME] 417
+pkt_pts_time=805.070933
+pict_type=I
+[/FRAME]
+[FRAME] 418
+pkt_pts_time=807.072933
+pict_type=I
+[/FRAME]
+[FRAME] 419
+pkt_pts_time=809.074933
+pict_type=I
+[/FRAME]
+[FRAME] 420
+pkt_pts_time=811.076933
+pict_type=I
+[/FRAME]
+[FRAME] 421 -- کرم عطفک
+pkt_pts_time=813.078933
+pict_type=I
+[/FRAME]
+[FRAME] 422
+pkt_pts_time=815.080933
+pict_type=I
+[/FRAME]
+[FRAME] 423
+pkt_pts_time=817.082933
+pict_type=I
+[/FRAME]
+[FRAME] 424
+pkt_pts_time=819.084933
+pict_type=I
+[/FRAME]
+[FRAME] 425
+pkt_pts_time=820.553067
+pict_type=I
+[/FRAME]
+[FRAME] 426
+pkt_pts_time=822.555067
+pict_type=I
+[/FRAME]
+[FRAME] 427
+pkt_pts_time=824.557067
+pict_type=I
+[/FRAME]
+[FRAME] 428
+pkt_pts_time=826.559067
+pict_type=I
+[/FRAME]
+[FRAME] 429 -- بکرم آلائک
+pkt_pts_time=828.561067
+pict_type=I
+[/FRAME]
+[FRAME] 430
+pkt_pts_time=830.563067
+pict_type=I
+[/FRAME]
+[FRAME] 431
+pkt_pts_time=832.565067
+pict_type=I
+[/FRAME]
+[FRAME] 432
+pkt_pts_time=834.567067
+pict_type=I
+[/FRAME]
+[FRAME] 433
+pkt_pts_time=836.035200
+pict_type=I
+[/FRAME]
+[FRAME] 434
+pkt_pts_time=838.037200
+pict_type=I
+[/FRAME]
+[FRAME] 435
+pkt_pts_time=840.039200
+pict_type=I
+[/FRAME]
+[FRAME] 436
+pkt_pts_time=842.041200
+pict_type=I
+[/FRAME]
+[FRAME] 437
+pkt_pts_time=844.043200
+pict_type=I
+[/FRAME]
+[FRAME] 438
+pkt_pts_time=846.045200
+pict_type=I
+[/FRAME]
+[FRAME] 439 -- جزیل ثوابک
+pkt_pts_time=848.047200
+pict_type=I
+[/FRAME]
+[FRAME] 440
+pkt_pts_time=850.049200
+pict_type=I
+[/FRAME]
+[FRAME] 441
+pkt_pts_time=851.517333
+pict_type=I
+[/FRAME]
+[FRAME] 442
+pkt_pts_time=853.519333
+pict_type=I
+[/FRAME]
+[FRAME] 443
+pkt_pts_time=855.521333
+pict_type=I
+[/FRAME]
+[FRAME] 444
+pkt_pts_time=857.523333
+pict_type=I
+[/FRAME]
+[FRAME] 445
+pkt_pts_time=859.525333
+pict_type=I
+[/FRAME]
+[FRAME] 446
+pkt_pts_time=861.527333
+pict_type=I
+[/FRAME]
+[FRAME] 447 -- آل محمد
+pkt_pts_time=863.529333
+pict_type=I
+[/FRAME]
+[FRAME] 448
+pkt_pts_time=865.531333
+pict_type=I
+[/FRAME]
+[FRAME] 449
+pkt_pts_time=866.999467
+pict_type=I
+[/FRAME]
+[FRAME] 450
+pkt_pts_time=869.001467
+pict_type=I
+[/FRAME]
+[FRAME] 451
+pkt_pts_time=871.003467
+pict_type=I
+[/FRAME]
+[FRAME] 452
+pkt_pts_time=873.005467
+pict_type=I
+[/FRAME]
+[FRAME] 453
+pkt_pts_time=875.007467
+pict_type=I
+[/FRAME]
+[FRAME] 454
+pkt_pts_time=877.009467
+pict_type=I
+[/FRAME]
+[FRAME] 455 -- ینقض عهدک
+pkt_pts_time=879.011467
+pict_type=I
+[/FRAME]
+[FRAME] 456
+pkt_pts_time=881.013467
+pict_type=I
+[/FRAME]
+[FRAME] 457
+pkt_pts_time=882.481600
+pict_type=I
+[/FRAME]
+[FRAME] 458
+pkt_pts_time=884.483600
+pict_type=I
+[/FRAME]
+[FRAME] 459 -- یستخف بامرک
+pkt_pts_time=886.485600
+pict_type=I
+[/FRAME]
+[FRAME] 460
+pkt_pts_time=888.487600
+pict_type=I
+[/FRAME]
+[FRAME] 461
+pkt_pts_time=890.489600
+pict_type=I
+[/FRAME]
+[FRAME] 462
+pkt_pts_time=892.491600
+pict_type=I
+[/FRAME]
+[FRAME] 463 -- خائفا مراقبا
+pkt_pts_time=894.493600
+pict_type=I
+[/FRAME]
+[FRAME] 464
+pkt_pts_time=896.495600
+pict_type=I
+[/FRAME]
+[FRAME] 465
+pkt_pts_time=897.963733
+pict_type=I
+[/FRAME]
+[FRAME] 466
+pkt_pts_time=899.965733
+pict_type=I
+[/FRAME]
+[FRAME] 467
+pkt_pts_time=901.967733
+pict_type=I
+[/FRAME]
+[FRAME] 468
+pkt_pts_time=903.969733
+pict_type=I
+[/FRAME]
+[FRAME] 469
+pkt_pts_time=905.971733
+pict_type=I
+[/FRAME]
+[FRAME] 470
+pkt_pts_time=907.973733
+pict_type=I
+[/FRAME]
+[FRAME] 471
+pkt_pts_time=909.975733
+pict_type=I
+[/FRAME]
+[FRAME] 472 -- تسلیما کثیرا
+pkt_pts_time=911.977733
+pict_type=I
+[/FRAME]
+[FRAME] 473
+pkt_pts_time=913.445867
+pict_type=I
+[/FRAME]
+[FRAME] 474
+pkt_pts_time=915.447867
+pict_type=I
+[/FRAME]
+[FRAME] 475
+pkt_pts_time=917.449867
+pict_type=I
+[/FRAME]
+[FRAME] 476
+pkt_pts_time=919.451867
+pict_type=I
+[/FRAME]
+[FRAME] 477
+pkt_pts_time=921.453867
+pict_type=I
+[/FRAME]
+[FRAME] 478
+pkt_pts_time=923.455867
+pict_type=I
+[/FRAME]
+[FRAME] 479
+pkt_pts_time=925.457867
+pict_type=I
+[/FRAME]
+[FRAME] 480
+pkt_pts_time=927.459867
+pict_type=I
+[/FRAME]
+[FRAME] 481
+pkt_pts_time=928.928000
+pict_type=I
+[/FRAME]
+[FRAME] 482
+pkt_pts_time=930.930000
+pict_type=I
+[/FRAME]
+[FRAME] 483
+pkt_pts_time=932.932000
+pict_type=I
+[/FRAME]
+[FRAME] 484
+pkt_pts_time=934.934000
+pict_type=I
+[/FRAME]
+[FRAME] 485
+pkt_pts_time=936.936000
+pict_type=I
+[/FRAME]
+[FRAME] 486
+pkt_pts_time=938.938000
+pict_type=I
+[/FRAME]
+[FRAME] 487
+pkt_pts_time=940.940000
+pict_type=I
+[/FRAME]
+[FRAME] 488
+pkt_pts_time=942.942000
+pict_type=I
+[/FRAME]
+[FRAME] 489
+pkt_pts_time=944.410133
+pict_type=I
+[/FRAME]
+[FRAME] 490 -- التماس دعا
+pkt_pts_time=946.412133
+pict_type=I
+[/FRAME]
+[FRAME] 491
+pkt_pts_time=948.414133
+pict_type=I
+[/FRAME]

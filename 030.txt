@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=383.583200
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى لَوْ أَرَدْتَ هَوانِى لَمْ تَهْدِنِى</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا، اگر خواری‌ام را می‌خواستی، هدایتم نمی‌نمودی</span>
 </markup>

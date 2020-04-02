@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=426.025600
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى إِنْ أَخَذْتَنِى بِجُرْمِى أَخَذْتُكَ بِعَفْوِكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا، اگر مرا بر جرمم بگیری، من نیز تو را به عفوت بگیرم</span>
 </markup>

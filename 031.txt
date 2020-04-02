@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=395.061333
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">وَ لَوْ أَرَدْتَ فَضِيحَتِى لَمْ تُعافِنِى</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">و اگر رسوایی‌ام را خواسته بودی عافیتم نمی‌بخشیدی</span>
 </markup>
