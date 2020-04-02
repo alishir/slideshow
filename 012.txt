@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=137.871067
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى أَعُوذُ بِكَ مِنْ غَضَبِكَ وَ حُلُولِ سَخَطِكَ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا! به تو پناه می‌آورم از خشمت و از فرود آمدن غضبت</span>
 </markup>
