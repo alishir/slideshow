@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=261.728133
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى تَوَلَّ مِنْ أَمْرِى مَا أَنْتَ أَهْلُهُ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا کارم را چنان‌که سزاوار آنی بر عهده گیر</span>
 </markup>
