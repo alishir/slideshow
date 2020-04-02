@@ -1,0 +1,11 @@
+<markup>
+<!--
+pkt_pts_time=25.492133
+-->
+<span size="100000" weight="bold">وَ أَقْبِلْ عَلَىَّ إِذا ناجَيْتُكَ</span>
+
+<span size="100000">
+</span>
+
+<span size="70000" face="vazir">و به من توجّه کن هنگامی‌که با تو مناجات می‌نمایم</span>
+</markup>

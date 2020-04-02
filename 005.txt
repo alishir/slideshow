@@ -1,0 +1,11 @@
+<markup>
+<!--
+pkt_pts_time=46.446400
+-->
+<span size="100000" weight="bold">راجِياً لِما لَدَيْكَ ثَوابِ</span>
+
+<span size="100000">
+</span>
+
+<span size="70000" face="vazir">پاداشی را که نزد توست امیدوارم</span>
+</markup>

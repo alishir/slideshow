@@ -1,0 +1,2 @@
+awk 'BEGIN {count=1}{ if ( == [FRAME]) { print , count++ } else { print  } }' key_frames.txt > key_frame_count.txt
+ffprobe -select_streams v -skip_frame nokey -show_frames -show_entries frame=pkt_pts_time,pict_type video_2020-04-02_06-21-35.mp4 > key_frames.txt
