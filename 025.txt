@@ -1,14 +1,11 @@
 <markup>
 <!--
+pkt_pts_time=317.650667
 -->
-<span size="100000" weight="bold">
-
-</span>
+<span size="100000" weight="bold">إِلٰهِى جُودُكَ بَسَطَ أَمَلِى، وَعَفْوُكَ أَفْضَلُ مِنْ عَمَلِ</span>
 
 <span size="100000">
 </span>
 
-<span size="70000" face="vazir">
-
-</span>
+<span size="70000" face="vazir">خدایا جود تو آرزویم را گسترده ساخت و عفو تو از عمل من برتری گرفت</span>
 </markup>
