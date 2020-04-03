@@ -7,5 +7,5 @@ pkt_pts_time=137.871067
 <span size="SP_SIZE">
 </span>
 
-<span size="FA_SIZE" face="vazir">خدایا! به تو پناه می‌آورم از خشمت و از فرود آمدن غضبت</span>
+<span size="FA_SIZE" face="vazir">خدایا، به تو پناه می‌آورم از خشمت و از فرود آمدن غضبت</span>
 </markup>

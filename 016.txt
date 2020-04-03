@@ -6,5 +6,5 @@
 <span size="SP_SIZE">
 </span>
 
-<span size="FA_SIZE" face="vazir">خدایا! اگر گذشت کنی، چه کسی از تو سزاوارتر به آن است؟</span>
+<span size="FA_SIZE" face="vazir">خدایا، اگر گذشت کنی، چه کسی از تو سزاوارتر به آن است؟</span>
 </markup>

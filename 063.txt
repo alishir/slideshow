@@ -8,6 +8,6 @@ pkt_pts_time=658.257600
 <span size="SP_SIZE">
 </span>
 
-<span size="FA_SIZE" face="vazir">س گمانم را از رحمتت ناامید مساز
+<span size="FA_SIZE" face="vazir">پس گمانم را از رحمتت ناامید مساز
 و از مهربانی‌ات محرومم مکن</span>
 </markup>

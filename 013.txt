@@ -8,6 +8,6 @@ pkt_pts_time=145.345200
 <span size="SP_SIZE">
 </span>
 
-<span size="FA_SIZE" face="vazir">خدایا! اگر شایسته رحمتت نیستم،
+<span size="FA_SIZE" face="vazir">خدایا، اگر شایسته رحمتت نیستم،
 تو سزاواری که بر من با فراوانی فضلت بخشش نمایی</span>
 </markup>

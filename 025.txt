@@ -2,10 +2,12 @@
 <!--
 pkt_pts_time=317.650667
 -->
-<span size="AR_SIZE" weight="bold">إِلٰهِى جُودُكَ بَسَطَ أَمَلِى، وَعَفْوُكَ أَفْضَلُ مِنْ عَمَلِ</span>
+<span size="AR_SIZE" weight="bold">إِلٰهِى جُودُكَ بَسَطَ أَمَلِى
+وَعَفْوُكَ أَفْضَلُ مِنْ عَمَلِ</span>
 
 <span size="SP_SIZE">
 </span>
 
-<span size="FA_SIZE" face="vazir">خدایا جود تو آرزویم را گسترده ساخت و عفو تو از عمل من برتری گرفت</span>
+<span size="FA_SIZE" face="vazir">خدایا جود تو آرزویم را گسترده ساخت
+و عفو تو از عمل من برتری گرفت</span>
 </markup>

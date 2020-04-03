@@ -8,6 +8,6 @@ pkt_pts_time=160.827333
 <span size="SP_SIZE">
 </span>
 
-<span size="FA_SIZE" face="vazir">خدایا! گویی من با همه هستی‌ام در برابرت ایستاده‌ام،
+<span size="FA_SIZE" face="vazir">خدایا، گویی من با همه هستی‌ام در برابرت ایستاده‌ام،
 درحالی‌که حسن اعتمادم بر تو، بر وجودم سایه افکنده است</span>
 </markup>
