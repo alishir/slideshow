@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=644.777467
 -->
-<span size="100000" weight="bold">إِلٰهِى إِنَّ مَنِ انْتَهَجَ بِكَ لَمُسْتَنِيرٌ</span>
+<span size="AR_SIZE" weight="bold">إِلٰهِى إِنَّ مَنِ انْتَهَجَ بِكَ لَمُسْتَنِيرٌ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">خدایا، آن‌که به تو راه جوید راهش روشن است</span>
+<span size="FA_SIZE" face="vazir">خدایا، آن‌که به تو راه جوید راهش روشن است</span>
 </markup>

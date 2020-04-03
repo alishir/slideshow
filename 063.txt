@@ -2,12 +2,12 @@
 <!--
 pkt_pts_time=658.257600
 -->
-<span size="100000" weight="bold">فَلا تُخَيِّبْ ظَنِّى مِنْ رَحْمَتِكَ
+<span size="AR_SIZE" weight="bold">فَلا تُخَيِّبْ ظَنِّى مِنْ رَحْمَتِكَ
 وَ لَا تَحْجُبْنِى عَنْ رَأْفَتِكَ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">س گمانم را از رحمتت ناامید مساز
+<span size="FA_SIZE" face="vazir">س گمانم را از رحمتت ناامید مساز
 و از مهربانی‌ات محرومم مکن</span>
 </markup>

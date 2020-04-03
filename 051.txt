@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=586.852933
 -->
-<span size="100000" weight="bold">إِلٰهِى انْظُرْ إِلَىَّ نَظَرَ مَنْ نادَيْتَهُ فَأَجابَكَ</span>
+<span size="AR_SIZE" weight="bold">إِلٰهِى انْظُرْ إِلَىَّ نَظَرَ مَنْ نادَيْتَهُ فَأَجابَكَ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">خدایا، بر من نظر کن، نظر به کسی که صدایش کردی و تو را اجابت کرد</span>
+<span size="FA_SIZE" face="vazir">خدایا، بر من نظر کن، نظر به کسی که صدایش کردی و تو را اجابت کرد</span>
 </markup>

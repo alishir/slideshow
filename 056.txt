@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=617.817200
 -->
-<span size="100000" weight="bold">وَ لِساناً يُرْفَعُ إِلَيْكَ صِدْقُهُ</span>
+<span size="AR_SIZE" weight="bold">وَ لِساناً يُرْفَعُ إِلَيْكَ صِدْقُهُ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">و زبانی که صدقش به‌جانب تو بالا برده شود</span>
+<span size="FA_SIZE" face="vazir">و زبانی که صدقش به‌جانب تو بالا برده شود</span>
 </markup>

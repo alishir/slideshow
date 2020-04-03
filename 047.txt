@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=563.362800
 -->
-<span size="100000" weight="bold">إِلّا فِى وَقْتٍ أَيْقَظْتَنِى لَِمحَبَّتِكَ</span>
+<span size="AR_SIZE" weight="bold">إِلّا فِى وَقْتٍ أَيْقَظْتَنِى لَِمحَبَّتِكَ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">مگر آنگاه که به محبّتت بیدارم سازی</span>
+<span size="FA_SIZE" face="vazir">مگر آنگاه که به محبّتت بیدارم سازی</span>
 </markup>

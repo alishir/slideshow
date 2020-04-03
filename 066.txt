@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=685.217867
 -->
-<span size="100000" weight="bold">وَ هِمَّتِى فِى رَوْحِ نَجاحِ أَسْمائِكَ وَ مَحَلِّ قُدْسِكَ</span>
+<span size="AR_SIZE" weight="bold">وَ هِمَّتِى فِى رَوْحِ نَجاحِ أَسْمائِكَ وَ مَحَلِّ قُدْسِكَ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">و همّتم را در نسیم کامیابی نام‌هایت و جایگاه قدست قرار ده</span>
+<span size="FA_SIZE" face="vazir">و همّتم را در نسیم کامیابی نام‌هایت و جایگاه قدست قرار ده</span>
 </markup>

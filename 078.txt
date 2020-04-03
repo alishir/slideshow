@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=795.594800
 -->
-<span size="100000" weight="bold">وَ لَا انْقَطَعَ رَجائِى مِنْ جَمِيلِ كَرَمِكَ</span>
+<span size="AR_SIZE" weight="bold">وَ لَا انْقَطَعَ رَجائِى مِنْ جَمِيلِ كَرَمِكَ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">و امیدم از زیبایی کرمت نبُرد</span>
+<span size="FA_SIZE" face="vazir">و امیدم از زیبایی کرمت نبُرد</span>
 </markup>

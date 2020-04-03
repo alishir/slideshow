@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=6.006000
 -->
-<span size="100000" weight="bold">اللّٰهُمَّ صَلِّ عَلىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ</span>
+<span size="AR_SIZE" weight="bold">اللّٰهُمَّ صَلِّ عَلىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">خدایا! بر محمّد و خاندان محمّد درود فرست</span>
+<span size="FA_SIZE" face="vazir">خدایا! بر محمّد و خاندان محمّد درود فرست</span>
 </markup>

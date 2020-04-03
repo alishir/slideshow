@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=437.503733
 -->
-<span size="100000" weight="bold">وَ إِنْ أَخَذْتَنِى بِذُنُوبِى أَخَذْتُكَ بِمَغْفِرَتِكَ</span>
+<span size="AR_SIZE" weight="bold">وَ إِنْ أَخَذْتَنِى بِذُنُوبِى أَخَذْتُكَ بِمَغْفِرَتِكَ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">و اگر به گناهانم بنگری، جز به آمرزشت ننگرم</span>
+<span size="FA_SIZE" face="vazir">و اگر به گناهانم بنگری، جز به آمرزشت ننگرم</span>
 </markup>

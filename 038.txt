@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=466.466000
 -->
-<span size="100000" weight="bold">إِلٰهِى كَيْفَ أَنْقَلِبُ مِنْ عِنْدِكَ بِالْخَيْبَةِ مَحْرُوماً</span>
+<span size="AR_SIZE" weight="bold">إِلٰهِى كَيْفَ أَنْقَلِبُ مِنْ عِنْدِكَ بِالْخَيْبَةِ مَحْرُوماً</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">خدایا، چگونه از بارگاهت با نومیدی و محرومیت بازگردم</span>
+<span size="FA_SIZE" face="vazir">خدایا، چگونه از بارگاهت با نومیدی و محرومیت بازگردم</span>
 </markup>

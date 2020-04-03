@@ -2,11 +2,11 @@
 <!--
 pkt_pts_time=63.930533
 -->
-<span size="100000" weight="bold">وَلَا يَخْفىٰ عَلَيْكَ أَمْرُ مُنْقَلَبِى وَمَثْواىَ</span>
+<span size="AR_SIZE" weight="bold">وَلَا يَخْفىٰ عَلَيْكَ أَمْرُ مُنْقَلَبِى وَمَثْواىَ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">کار بازگشت به آخرت
+<span size="FA_SIZE" face="vazir">کار بازگشت به آخرت
 و خانه ابدی‌ام بر تو پوشیده نیست</span>
 </markup>

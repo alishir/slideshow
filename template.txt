@@ -1,14 +1,14 @@
 <markup>
 <!--
 -->
-<span size="100000" weight="bold">
+<span size="AR_SIZE" weight="bold">
 
 </span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">
+<span size="FA_SIZE" face="vazir">
 
 </span>
 </markup>

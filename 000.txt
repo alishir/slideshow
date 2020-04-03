@@ -1,0 +1,11 @@
+<markup>
+<!--
+pkt_pts_time=0
+-->
+<span size="AR_SIZE" weight="bold">مناجات شعبانیه</span>
+
+<span size="SP_SIZE">
+</span>
+
+<span size="FA_SIZE" face="vazir">با نوای حاج مهدی سماواتی</span>
+</markup>

@@ -2,12 +2,12 @@
 <!--
 pkt_pts_time=445.511733
 -->
-<span size="100000" weight="bold">
+<span size="AR_SIZE" weight="bold">
 وَ إِنْ أَدْخَلْتَنِى النَّارَ أَعْلَمْتُ أَهْلَها أَنِّى أُحِبُّكَ
 </span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">و اگر مرا وارد دوزخ کنی، به اهل آن آگاهی دهم که تو را دوست دارم</span>
+<span size="FA_SIZE" face="vazir">و اگر مرا وارد دوزخ کنی، به اهل آن آگاهی دهم که تو را دوست دارم</span>
 </markup>

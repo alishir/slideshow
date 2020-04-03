@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=25.492133
 -->
-<span size="100000" weight="bold">وَ أَقْبِلْ عَلَىَّ إِذا ناجَيْتُكَ</span>
+<span size="AR_SIZE" weight="bold">وَ أَقْبِلْ عَلَىَّ إِذا ناجَيْتُكَ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">و به من توجّه کن هنگامی‌که با تو مناجات می‌نمایم</span>
+<span size="FA_SIZE" face="vazir">و به من توجّه کن هنگامی‌که با تو مناجات می‌نمایم</span>
 </markup>

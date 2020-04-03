@@ -1,4 +1,6 @@
 ffconcat version 1.0
+file 000_e.png
+duration 6.0060000
 file 001_e.png
 duration 6.006000
 file 002_e.png
@@ -168,4 +170,5 @@ duration 8.008000
 file 086_e.png
 duration 17.484133
 file 087_e.png
-duration 88.022267
+duration 18.022267
+file 087_e.png

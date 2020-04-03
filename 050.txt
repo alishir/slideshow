@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=580.846933
 -->
-<span size="100000" weight="bold">وَ لِتَطْهِيرِ قَلْبِى مِنْ أَوْساخِ الْغَفْلَةِ عَنْكَ</span>
+<span size="AR_SIZE" weight="bold">وَ لِتَطْهِيرِ قَلْبِى مِنْ أَوْساخِ الْغَفْلَةِ عَنْكَ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">و هم اینکه دلم را از آلایه‌های غفلت از حضرتت پاک نمودی</span>
+<span size="FA_SIZE" face="vazir">و هم اینکه دلم را از آلایه‌های غفلت از حضرتت پاک نمودی</span>
 </markup>

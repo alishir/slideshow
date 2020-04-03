@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=261.728133
 -->
-<span size="100000" weight="bold">إِلٰهِى تَوَلَّ مِنْ أَمْرِى مَا أَنْتَ أَهْلُهُ</span>
+<span size="AR_SIZE" weight="bold">إِلٰهِى تَوَلَّ مِنْ أَمْرِى مَا أَنْتَ أَهْلُهُ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">خدایا کارم را چنان‌که سزاوار آنی بر عهده گیر</span>
+<span size="FA_SIZE" face="vazir">خدایا کارم را چنان‌که سزاوار آنی بر عهده گیر</span>
 </markup>

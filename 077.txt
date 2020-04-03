@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=788.120667
 -->
-<span size="100000" weight="bold">إِلٰهِى لَمْ أُسَلِّطْ عَلىٰ حُسْنِ ظَنِّى قُنُوطَ الْأَياسِ</span>
+<span size="AR_SIZE" weight="bold">إِلٰهِى لَمْ أُسَلِّطْ عَلىٰ حُسْنِ ظَنِّى قُنُوطَ الْأَياسِ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">خدایا، بر خوش‌بینی‌ام ناامیدی و یأس را چیره نسازم</span>
+<span size="FA_SIZE" face="vazir">خدایا، بر خوش‌بینی‌ام ناامیدی و یأس را چیره نسازم</span>
 </markup>

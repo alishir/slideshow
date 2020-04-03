@@ -1,10 +1,10 @@
 <markup>
 <!--
 -->
-<span size="100000" weight="bold">إِلٰهِى إِنْ عَفَوْتَ فَمَنْ أَوْلىٰ مِنْكَ بِذٰلِكَ</span>
+<span size="AR_SIZE" weight="bold">إِلٰهِى إِنْ عَفَوْتَ فَمَنْ أَوْلىٰ مِنْكَ بِذٰلِكَ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">خدایا! اگر گذشت کنی، چه کسی از تو سزاوارتر به آن است؟</span>
+<span size="FA_SIZE" face="vazir">خدایا! اگر گذشت کنی، چه کسی از تو سزاوارتر به آن است؟</span>
 </markup>

@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=640.773467
 -->
-<span size="100000" weight="bold">وَ مَنْ أَقْبَلْتَ عَلَيْهِ غَيْرُ مَمْلُوكٍ</span>
+<span size="AR_SIZE" weight="bold">وَ مَنْ أَقْبَلْتَ عَلَيْهِ غَيْرُ مَمْلُوكٍ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">و هرکه را تو به او روی آوری برده نیست</span>
+<span size="FA_SIZE" face="vazir">و هرکه را تو به او روی آوری برده نیست</span>
 </markup>

@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=605.805200
 -->
-<span size="100000" weight="bold">وَ يا جَواداً لَايَبْخَلُ عَمَّنْ رَجا ثَوابَهُ</span>
+<span size="AR_SIZE" weight="bold">وَ يا جَواداً لَايَبْخَلُ عَمَّنْ رَجا ثَوابَهُ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">و ای سخاوتمندی که از امید بستگان به پاداشش دریغ نمی‌ورزد</span>
+<span size="FA_SIZE" face="vazir">و ای سخاوتمندی که از امید بستگان به پاداشش دریغ نمی‌ورزد</span>
 </markup>

@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=743.142400
 -->
-<span size="100000" weight="bold">وَ أَنِرْ أَبْصارَ قُلُوبِنا بِضِياءِ نَظَرِها إِلَيْكَ</span>
+<span size="AR_SIZE" weight="bold">وَ أَنِرْ أَبْصارَ قُلُوبِنا بِضِياءِ نَظَرِها إِلَيْكَ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">و دیدگان دل‌هایمان را به پرتو نگاه به‌سوی خویش روشن کن</span>
+<span size="FA_SIZE" face="vazir">و دیدگان دل‌هایمان را به پرتو نگاه به‌سوی خویش روشن کن</span>
 </markup>

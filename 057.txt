@@ -2,10 +2,10 @@
 <!--
 pkt_pts_time=623.289333
 -->
-<span size="100000" weight="bold">وَ نَظَراً يُقَرِّبُهُ مِنْكَ حَقُّهُ</span>
+<span size="AR_SIZE" weight="bold">وَ نَظَراً يُقَرِّبُهُ مِنْكَ حَقُّهُ</span>
 
-<span size="100000">
+<span size="SP_SIZE">
 </span>
 
-<span size="70000" face="vazir">و نگاهی که حق بودنش او را به تو نزدیک نماید</span>
+<span size="FA_SIZE" face="vazir">و نگاهی که حق بودنش او را به تو نزدیک نماید</span>
 </markup>
